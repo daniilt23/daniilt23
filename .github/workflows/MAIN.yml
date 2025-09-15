@@ -8,13 +8,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # ДОБАВЬТЕ ЭТО - разрешения для записи
+    permissions:
+      contents: write
 
     steps:
-      # Обновленная версия checkout
+      # Шаг 1: Checkout с токеном
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # ДОБАВЬТЕ ЭТУ СТРОКУ
 
-      # Генерация змейки с правильными параметрами для v3
+      # Шаг 2: Генерация змейки
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
@@ -23,10 +29,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
 
+      # Шаг 3: Показать статус
       - name: Show status
         run: git status
 
-      # Push изменений в main ветку
+      # Шаг 4: Push изменений (теперь будет работать)
       - name: Push changes to main
         uses: ad-m/github-push-action@v0.8.0
         with:
@@ -34,8 +41,8 @@ jobs:
           branch: main
           force: true
 
-      # Деплой на GitHub Pages ветку
-      - name: Deploy to GitHub Pages
+      # Шаг 5: Деплой на GitHub Pages
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
