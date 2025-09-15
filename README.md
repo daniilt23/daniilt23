@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![snake gif](https://github.com/daniilt23/daniilt23/blob/output/github-contribution-grid-snake.gif)
 <!--
 **daniilt23/daniilt23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
