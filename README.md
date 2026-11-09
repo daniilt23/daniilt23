@@ -1,19 +1,27 @@
-## HI THERE👋
-## I AM GOLANG DEVELOPER
-## ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/project-map-mobile.svg">
+  <img width="1000" src="./assets/project-map.svg" alt="Daniil Tovstukha. I build products, from small tools to startup experiments.">
+</picture>
 
-![snake gif](https://github.com/daniilt23/daniilt23/blob/output/github-snake-dark.svg)
-<!--
-**daniilt23/daniilt23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Selected projects
 
-Here are some ideas to get you started:
+### 01 · Пара
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Telegram Mini App for Bauman University students. It started with dating and grew to include study tools and a campus events feed.
+
+[Open Пара in Telegram ↗](https://t.me/ParaBMSTUBot)
+
+### 02 · Aviabot
+
+A Telegram bot for tracking flight prices. Pick a route, a date or date range, and a price limit. The bot monitors fares and sends an alert when it finds a ticket within budget.
+
+### 03 · HotTranslate
+
+A macOS prototype that translates selected text with a keyboard shortcut and shows the result in a popup.
+
+[Say hi on Telegram ↗](https://t.me/daniilt23)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniilt23/daniilt23/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/daniilt23/daniilt23/output/github-snake.svg" alt="Animated GitHub contribution snake">
+</picture>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="382" viewBox="0 0 1000 382" role="img" aria-labelledby="title description">
+<title id="title">Daniil Tovstukha — I build products</title>
+<desc id="description">A lavender pixel snake connects Para for BMSTU, Aviabot, and HotTranslate.</desc>
+<defs>
+  <linearGradient id="bg" x2="100%" y2="100%"><stop stop-color="#161224"/><stop offset="1" stop-color="#211638"/></linearGradient>
+  <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M0 0H22M0 0V22" fill="none" stroke="#352752" stroke-opacity=".67"/></pattern>
+</defs>
+<style>text {font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif} .mono {font-family:ui-monospace,SFMono-Regular,Consolas,monospace}</style>
+<rect x=".5" y=".5" width="999" height="381" rx="23" fill="url(#bg)" stroke="#443461"/>
+<g transform="translate(44 51)">
+  <rect x="0" y="0" width="11" height="11" rx="2" fill="#b999ff"/>
+  <text x="22" y="10" font-size="14" letter-spacing="2" fill="#d4c5ed" class="mono">DANIIL TOVSTUKHA</text>
+  <text x="-2" y="104" font-size="68" font-weight="750" letter-spacing="-2.5" word-spacing="4" fill="#f9f5ff">I build</text>
+  <text x="-2" y="172" font-size="68" font-weight="750" letter-spacing="-2.5" word-spacing="4" fill="#c3a3ff">products.</text>
+  <text x="0" y="216" font-size="19" fill="#d4cbe2">Small tools &amp; startup experiments</text>
+  <path d="M0 250h27" stroke="#9674ea" stroke-width="2"/><text x="39" y="255" font-size="12" class="mono" fill="#ad9bc7" letter-spacing="1.4">@daniilt23</text>
+</g>
+<g transform="translate(465 28)">
+  <rect x="0" y="0" width="505" height="326" rx="15" fill="#141024" stroke="#33264d"/>
+  <rect x="1" y="1" width="503" height="324" rx="15" fill="url(#grid)"/>
+  <text x="20" y="29" class="mono" font-size="12" letter-spacing="2.2" fill="#b9aed4">PROJECT MAP</text>
+  <text x="485" y="29" class="mono" font-size="12" letter-spacing="1.2" text-anchor="end" fill="#b9aed4">01—03</text>
+  <path d="M18 46H487" stroke="#322645"/>
+  <path d="M117 140v14M425 206v14M271 238v11" stroke="#a98cfa" stroke-width="1.5" stroke-dasharray="2 3"/>
+
+<g transform="translate(48 72)">
+  <rect width="188" height="68" rx="10" fill="#1a1531" stroke="#473961"/>
+  <rect x="12" y="12" width="27" height="20" rx="4" fill="#91f4c7" fill-opacity=".15"/>
+  <text x="25.5" y="26" text-anchor="middle" font-size="12" font-weight="700" fill="#91f4c7" class="mono">01</text>
+  <text x="49" y="27" font-size="15" font-weight="700" fill="#f4f0ff">ПАРА · BMSTU</text>
+  <text x="13" y="52" font-size="12" fill="#b9aed4" class="mono">CAMPUS MINI APP</text>
+</g>
+
+<g transform="translate(315 138)">
+  <rect width="170" height="68" rx="10" fill="#1a1531" stroke="#473961"/>
+  <rect x="12" y="12" width="27" height="20" rx="4" fill="#a7beff" fill-opacity=".15"/>
+  <text x="25.5" y="26" text-anchor="middle" font-size="12" font-weight="700" fill="#a7beff" class="mono">02</text>
+  <text x="49" y="27" font-size="15" font-weight="700" fill="#f4f0ff">AVIABOT</text>
+  <text x="13" y="52" font-size="12" fill="#b9aed4" class="mono">FLIGHT PRICE ALERTS</text>
+</g>
+
+<g transform="translate(244 249)">
+  <rect width="181" height="68" rx="10" fill="#1a1531" stroke="#473961"/>
+  <rect x="12" y="12" width="27" height="20" rx="4" fill="#f3d48d" fill-opacity=".15"/>
+  <text x="25.5" y="26" text-anchor="middle" font-size="12" font-weight="700" fill="#f3d48d" class="mono">03</text>
+  <text x="49" y="27" font-size="15" font-weight="700" fill="#f4f0ff">HOTTRANSLATE</text>
+  <text x="13" y="52" font-size="12" fill="#b9aed4" class="mono">MACOS PROTOTYPE</text>
+</g>
+  <rect x="20" y="220" width="18" height="18" rx="3" fill="#6747ce"/><rect x="42" y="220" width="18" height="18" rx="3" fill="#6747ce"/><rect x="64" y="220" width="18" height="18" rx="3" fill="#6747ce"/><rect x="86" y="220" width="18" height="18" rx="3" fill="#6747ce"/><rect x="108" y="220" width="18" height="18" rx="3" fill="#6747ce"/><rect x="108" y="198" width="18" height="18" rx="3" fill="#6747ce"/><rect x="108" y="176" width="18" height="18" rx="3" fill="#7957ed"/><rect x="108" y="154" width="18" height="18" rx="3" fill="#7957ed"/><rect x="130" y="154" width="18" height="18" rx="3" fill="#7957ed"/><rect x="152" y="154" width="18" height="18" rx="3" fill="#7957ed"/><rect x="174" y="154" width="18" height="18" rx="3" fill="#7957ed"/><rect x="196" y="154" width="18" height="18" rx="3" fill="#9875ff"/><rect x="218" y="154" width="18" height="18" rx="3" fill="#9875ff"/><rect x="218" y="176" width="18" height="18" rx="3" fill="#9875ff"/><rect x="218" y="198" width="18" height="18" rx="3" fill="#9875ff"/><rect x="218" y="220" width="18" height="18" rx="3" fill="#9875ff"/><rect x="240" y="220" width="18" height="18" rx="3" fill="#9875ff"/><rect x="262" y="220" width="18" height="18" rx="3" fill="#ba9cff"/><rect x="284" y="220" width="18" height="18" rx="3" fill="#ba9cff"/><rect x="306" y="220" width="18" height="18" rx="3" fill="#ba9cff"/><rect x="328" y="220" width="18" height="18" rx="3" fill="#ba9cff"/><rect x="350" y="220" width="18" height="18" rx="3" fill="#ba9cff"/><rect x="372" y="220" width="18" height="18" rx="3" fill="#d2baff"/><rect x="394" y="220" width="18" height="18" rx="3" fill="#d2baff"/><rect x="416" y="220" width="18" height="18" rx="3" fill="#d2baff"/><rect x="438" y="220" width="18" height="18" rx="3" fill="#d2baff"/><rect x="459" y="216" width="26" height="26" rx="5" fill="#e0ccff"/><path d="M474 222h4v4h-4zM474 232h4v4h-4z" fill="#30204f"/>
+  <g fill="#9e81e4" opacity=".54">
+    <circle cx="36" cy="182" r="2"/><circle cx="163" cy="283" r="2"/>
+    <circle cx="290" cy="112" r="2"/><circle cx="411" cy="86" r="2"/>
+    <path d="M450 276h10v2h-10z M454 272h2v10h-2z"/>
+  </g></g>
+</svg>
